@@ -1,0 +1,7 @@
+a{
+    color:#fff
+}
+img {
+    width: 100px; /* Define a largura para 100 pixels */
+    height: auto; /* A altura será ajustada proporcionalmente */
+}
